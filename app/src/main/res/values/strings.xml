@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Unit Temperature Converter</string>
+    <string name="celcius_to_fahrenheit">Celcius to Fahrenheit</string>
+    <string name="fahrenheit_to_celcius">Fahrenheit to Celcius</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="enter_the_number_here">Enter the number here</string>
+    <string name="result">Result</string>
 </resources>
